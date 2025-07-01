@@ -51,3 +51,45 @@ pneumonia_app/
 ├── sample_images/          # 🖼️ Optional folder with sample chest X-ray images
 
 └── README.md               # 📖 Project overview and setup instructions
+
+
+
+---
+
+## 🚀 How to Run Locally
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/your-username/pneumonia-detection-cnn.git
+cd pneumonia-detection-cnn
+
+```
+
+### 2. install dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3.Run the app
+```bash
+streamlit run app.py
+```
+---
+### 🧠 How It Works
+The CNN architecture:
+
+- 3 Convolutional + MaxPooling layers
+
+- Flatten → Dense → Dropout
+
+- Output layer with sigmoid activation
+
+- Trained with binary_crossentropy loss
+
+---
+
+### 🙏 Credits
+- Dataset: Kaggle Chest X-ray Pneumonia Dataset
+
+- Icons: Streamlit, Shields.io
+
+- Developer: canishulk
