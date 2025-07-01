@@ -1,9 +1,5 @@
 # 🩺 Pneumonia Detection from Chest X-Rays using CNN
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/pneumonia-detection-cnn)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/pneumonia-detection-cnn)
-![GitHub stars](https://img.shields.io/github/stars/your-username/pneumonia-detection-cnn?style=social)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ---
 
